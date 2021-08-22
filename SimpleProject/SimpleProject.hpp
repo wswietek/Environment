@@ -5,6 +5,8 @@
 #include "HelloWorld.hpp"
 #include <stdexcept>
 
+# modfied by Wojciech Swietek
+
 namespace project
 {	
 
